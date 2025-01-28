@@ -386,6 +386,10 @@
     [
       "574aef03-50c0-457b-ac4e-eeea858fe9e9",
       "Root"
+    ],
+    [
+      "a79d9f11-b257-408f-9c9b-f6b7a0fc4c6f",
+      "Watchdog Timer"
     ]
   ],
   "text_variables": {}
